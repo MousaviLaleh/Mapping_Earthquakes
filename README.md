@@ -20,3 +20,26 @@ To run the index.html file, open the Terminal in VS-Code, navigate to your proje
 
 ## Link to interactive map
 The deployed webpage is accessible at &nbsp;  https://mousavilaleh.github.io/EarthquakeMap/  <br/>
+
+
+### Map View
+
+with the center of [40.7, -94.5] cordinates.  <br/>
+
+![03.png](images/03.png)
+
+<br/>
+
+![04.png}(images/04.png)
+
+<br/>
+
+![05.png](images/05.png)
+
+<br/>
+
+User also can choose which data to display.  <br/>
+
+![06.png](images/06.png)
+
+<br/>
