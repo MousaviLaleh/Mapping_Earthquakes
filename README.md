@@ -17,13 +17,13 @@ To interact with the maps API, user needs to visit [mapbox.com](https://www.mapb
 <br/>
 
 ![01.png](images/01.png)
+![02.png](images/02.png)
 
 <br/>
 
 Then, call the token file in the html file.
 <br/>
-
-![02.png](images/02.png)
+![07.png](images/07.png)
 
 <br/>
 
