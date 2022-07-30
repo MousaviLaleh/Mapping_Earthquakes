@@ -19,4 +19,4 @@ The, call the token file in the html file.<br/>
 To run the index.html file, open the Terminal in VS-Code, navigate to your project folder and enter  _**python -m http.server**_  command. <br/>
 
 ## Link to interactive map
-The deployed webpage is accessible at   <br/>
+The deployed webpage is accessible at &nbsp;  https://mousavilaleh.github.io/EarthquakeMap/  <br/>
