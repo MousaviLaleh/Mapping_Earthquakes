@@ -19,14 +19,14 @@ To interact with the maps API, user needs to visit [mapbox.com](https://www.mapb
 ![01.png](images/01.png) <br/>
 then add the API key to the config.js  file
 <br/>
-
-![07.png](images/07.png)
+![02.png](images/02.png)
 
 <br/>
 
 and call the token file in the html file.
 <br/>
-![02.png](images/02.png)
+
+![07.png](images/07.png)
 
 <br/>
 
