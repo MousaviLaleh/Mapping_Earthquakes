@@ -16,7 +16,8 @@ To interact with the maps API the user needs to visit [mapbox.com](https://www.m
 ![01.png](images/01.png)
 
 <br/>
-The, call the token file in the html file.
+Thec, call the token file in the html file.
+
 <br/>
 
 ![02.png](images/02.png)
