@@ -42,17 +42,17 @@ The deployed webpage is accessible at &nbsp;  https://mousavilaleh.github.io/Ear
 with the center of [40.7, -94.5] cordinates.  <br/>
 
 ![03.png](images/03.png)
-<p align="center">Street View </p>
+<p align="center"><b>Street View </b></p>
 
 <br/>
 
 ![04.png](images/04.png)
-<p align="center">Satellite View</p>
+<p align="center"><b>Satellite View</b></p>
 
 <br/>
 
 ![05.png](images/05.png)
-<p align="center">Dark View </p>
+<p align="center"><b>Dark View </b></p>
 
 <br/>
 
