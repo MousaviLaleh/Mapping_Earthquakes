@@ -24,9 +24,9 @@ then add the API key to the config.js  file
 
 <br/>
 
-Then, call the token file in the html file.
+and call the token file in the html file.
 <br/>
-![07.png](images/07.png)
+![02.png](images/02.png)
 
 <br/>
 
