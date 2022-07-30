@@ -32,7 +32,7 @@ with the center of [40.7, -94.5] cordinates.  <br/>
 <br/>
 
 ![04.png](images/04.png)
-<p align="center">Satellite </p>
+<p align="center">Satellite View</p>
 
 <br/>
 
