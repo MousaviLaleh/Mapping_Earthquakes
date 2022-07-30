@@ -20,7 +20,7 @@ To interact with the maps API, user needs to visit [mapbox.com](https://www.mapb
 then add the API key to the config.js  file
 <br/>
 
-![02.png](images/02.png)
+![07.png](images/07.png)
 
 <br/>
 
