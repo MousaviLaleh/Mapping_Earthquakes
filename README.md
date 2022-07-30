@@ -16,4 +16,4 @@ To interact with the maps API the user needs to visit [mapbox.com](https://www.m
 The, call the token file in the html file.<br/>
 ![02.png](images/02.png)
 <br/>
-To run the index.html file, open the Terminal in VS-Code, navigate to your project folder and run the  ```python -m http.server```  command.
+To run the index.html file, open the Terminal in VS-Code, navigate to your project folder and run the  enter python -m http.server.  command.
