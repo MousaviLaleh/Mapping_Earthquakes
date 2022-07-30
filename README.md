@@ -58,7 +58,6 @@ with the center of [40.7, -94.5] cordinates.  <br/>
 
 It is also possible to choose which data to display.  
 <br/>
-
 ![06.png](images/06.png)
 
 <br/>
