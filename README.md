@@ -2,6 +2,9 @@
 A project to visualize the earthquake GeoJSON data from USGS with interactive maps using JavaScript, Leaflet.js, and geoJSON.
 The earthquake data is represented on the maps in relation to the tectonic plates’ location on the earth, and according to each event's magnitude.
 
+## Purpose
+The porpose of this project is to create the earthquake map with three different maps and three overlays, which third layer shows the earquakes with magnitude greater than 4.5.
+
 
 ### Resources
 
