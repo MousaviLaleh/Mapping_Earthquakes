@@ -13,7 +13,7 @@ The porpose of this project is to create the earthquake map with three different
 
 
 ## Analysis
-To interact with the maps API the user needs to visit [mapbox.com](https://www.mapbox.com/), create an account and retrieve the access token.
+To interact with the maps API, user needs to visit [mapbox.com](https://www.mapbox.com/), create an account and retrieve the access token.
 <br/>
 
 ![01.png](images/01.png)
