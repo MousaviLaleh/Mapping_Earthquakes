@@ -11,6 +11,9 @@ The porpose of this project is to create the earthquake map with three different
 - Data Source :&nbsp; [Eartquake GeoJSON](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson),&nbsp; [Earthquake above 4.5 GeoJSON](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson),&nbsp; [Tectonic Plate GeoJSON](https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json)
 - Softwares :&nbsp; HTML,&nbsp; CSS,&nbsp; [JavaScript](https://www.w3schools.com/js/default.asp),&nbsp; [D3.js](https://d3js.org/),&nbsp; [Leaflet](https://leafletjs.com/examples/geojson/)
 
+## Link to interactive map
+The deployed webpage is accessible at &nbsp;  https://mousavilaleh.github.io/EarthquakeMap/  <br/>
+
 
 ## Analysis
 To interact with the maps API, user needs to visit [mapbox.com](https://www.mapbox.com/), create an account and retrieve the access token,
@@ -33,8 +36,7 @@ and call the token file in the html file.
 
 To run the index.html file, open the Terminal in VS-Code, navigate to your project folder and enter  _**python -m http.server**_  command. <br/>
 
-## Link to interactive map
-The deployed webpage is accessible at &nbsp;  https://mousavilaleh.github.io/EarthquakeMap/  <br/>
+
 
 
 ### Map View
