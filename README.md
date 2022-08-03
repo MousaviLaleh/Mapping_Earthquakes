@@ -16,11 +16,11 @@ The deployed webpage is accessible at &nbsp;  https://mousavilaleh.github.io/Ear
 
 
 ## Analysis
-To interact with the maps API, user needs to visit [mapbox.com](https://www.mapbox.com/), create an account and retrieve the access token,
+To interact with the maps API, user needs to visit [mapbox.com](https://www.mapbox.com/), create an account and retrieve the access token.
 <br/>
 
 ![01.png](images/01.png) <br/>
-then add the API key to the config.js  file
+Then, add the API key to the config.js  file,
 <br/>
 
 ![02.png](images/02.png)
